@@ -49,4 +49,6 @@ Since this project bypasses heavy Node.js tooling, you can preview it immediatel
 - **Babel Standalone** (In-browser JSX compilation for instant previewing)
 
 ## 📄 License
-This project is open-source under the terms of the custom **Apple Software & Design License**. See the [LICENSE](./LICENSE) file for more legal details. Created for educational and recreational parody purposes.
+This project is open-source under the terms of the custom **Apple Software & Design License**. See the [LICENSE](./LICENSE) file for more legal details. Created for educational and recreational purposes.
+
+<img width="611" height="375" alt="image" src="https://github.com/user-attachments/assets/bd0ffdda-d53c-4b37-a4ef-4abc5df7f76d" />
