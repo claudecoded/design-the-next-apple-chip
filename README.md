@@ -49,4 +49,4 @@ Since this project bypasses heavy Node.js tooling, you can preview it immediatel
 - **Babel Standalone** (In-browser JSX compilation for instant previewing)
 
 ## 📄 License
-This project is open-source under the terms of the custom **Apple Silicon Parody License**. See the [LICENSE](./LICENSE) file for more legal details. Created for educational and recreational parody purposes.
+This project is open-source under the terms of the custom **Apple Software & Design License**. See the [LICENSE](./LICENSE) file for more legal details. Created for educational and recreational parody purposes.
